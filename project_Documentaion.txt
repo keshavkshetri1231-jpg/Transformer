@@ -1,1 +1,1 @@
- Today,  I learned Aurdino and how to turn on an LED.I connecred the LED to the Aurdino board and uploaded a simple project. The LED turned on successfully. This helped me understand the basic of Aurdino and electronics circuits.
+ Today,  I learned Aurdino and how to turn on an LED.I connected the LED to the Aurdino board and uploaded a simple project. The LED turned on successfully. This helped me understand the basic of Aurdino and electronics circuits.
